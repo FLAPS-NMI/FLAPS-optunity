@@ -1,0 +1,10 @@
+dist/
+build/
+papers/
+docs/_build
+__pycache__/
+*.py[co]
+*.m~
+.R*
+*.class
+wrappers/*.tar.gz
